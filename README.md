@@ -1,1 +1,1 @@
-# Snake-Game
+This repository contains a reinforcement learning project made with the intent to simulate the famous retro game of an evergrowing snake, that grows in size whenever it eats and only dies when it's head collides with it's body.
